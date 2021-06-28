@@ -1,0 +1,14 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: dimgrey;
+}
+
+.instagram {
+  text-align: center;
+}
