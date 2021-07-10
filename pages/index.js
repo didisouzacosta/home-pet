@@ -12,14 +12,14 @@ export default function Home() {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website"></meta>
-        <meta property="og:url" content="https://landing-page-nassi-atelie.vercel.app/"></meta>
+        <meta property="og:url" content="https://home-pet.com.br/"></meta>
         <meta property="og:title" content="HomePet - Aqui seu pet se diverte"></meta>
         <meta property="og:description" content="Viaje com tranquilidade deixando seu filinho em segurança com um cuidado especial"></meta>
         <meta property="og:image" content="/images/meta.png"></meta>
 
         {/* Twitter */}
         <meta property="twitter:card" content="/images/meta.png"></meta>
-        <meta property="twitter:url" content="https://landing-page-nassi-atelie.vercel.app/"></meta>
+        <meta property="twitter:url" content="https://home-pet.com.br/"></meta>
         <meta property="twitter:title" content="HomePet - Aqui seu pet se diverte"></meta>
         <meta property="twitter:description" content="Viaje com tranquilidade deixando seu filinho em segurança com um cuidado especial"></meta>
         <meta property="twitter:image" content=""></meta>
