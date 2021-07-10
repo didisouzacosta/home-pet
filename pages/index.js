@@ -8,7 +8,6 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>HomePet - Aqui seu pet se diverte</title>
-        <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Viaje com tranquilidade deixando seu filinho em segurança com um cuidado especial"></meta>
         
         {/* Open Graph / Facebook */}
