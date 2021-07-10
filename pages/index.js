@@ -28,7 +28,7 @@ export default function Home() {
       <main>
         <div>
           <Link href="https://www.instagram.com/homepet_ceciliaalves/">
-            <a><Image src="/images/home-pet-logo.png" width={300} height={300} /></a>
+            <a><Image src="/images/home-pet-logo.png" width={240} height={240} /></a>
           </Link>
         </div>
         <p className={styles.description}>
